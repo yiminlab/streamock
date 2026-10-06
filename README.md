@@ -144,7 +144,7 @@ curl -X POST "http://localhost:3001/api/stream" \
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Wangggym/streamock.git
+git clone https://github.com/yiminlab/streamock.git
 cd streamock
 ```
 
@@ -263,4 +263,4 @@ MIT License - see the [LICENSE](LICENSE) file for details
 ## GitHub Repository
 
 For more information, to report issues, or to contribute, please visit:
-https://github.com/Wangggym/streamock
+https://github.com/yiminlab/streamock
