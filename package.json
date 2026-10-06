@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wangggym/streamock"
+    "url": "https://github.com/yiminlab/streamock"
   },
   "bugs": {
-    "url": "https://github.com/Wangggym/streamock/issues"
+    "url": "https://github.com/yiminlab/streamock/issues"
   },
-  "homepage": "https://github.com/Wangggym/streamock#readme"
+  "homepage": "https://github.com/yiminlab/streamock#readme"
 }

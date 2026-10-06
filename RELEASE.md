@@ -29,7 +29,7 @@ This document describes how to release a new version of streamock.
 
 5. Verify the new version is available on:
    - NPM: https://www.npmjs.com/package/streamock
-   - GitHub: https://github.com/Wangggym/streamock/releases
+   - GitHub: https://github.com/yiminlab/streamock/releases
 
 ## Version Guidelines
 
